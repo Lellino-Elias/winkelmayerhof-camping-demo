@@ -27,17 +27,17 @@ const winkelmayerhof: CampsiteConfig = {
   pillars: [
     {
       title: "Mittendrin im Bauernhof",
-      text: "Auf den großen Grünflächen leben Pferde, Schweine, Ziegen, Hühner — und sogar exotische Emus. Artgerechte Tierhaltung liegt Franzi und Sigi besonders am Herzen.",
+      text: "Pferde, Ziegen, Hühner und sogar Emus leben auf dem Hof — artgerechte Tierhaltung liegt Franzi und Sigi am Herzen.",
       image: { src: `${IMG}/gallery-4fc94c051e.webp`, alt: "Haflinger-Pferde grasen vor den Hütten am Winkelmayer Hof" },
     },
     {
       title: "Zeltplatz unter Obstbäumen",
-      text: "Ein idyllischer Zeltplatz inmitten von Obstbäumen und Tieren — Lagerfeuerplatz, Sanitärbereich und WLAN inklusive, dazu Hunde herzlich willkommen.",
+      text: "Idyllischer Zeltplatz zwischen Obstbäumen und Tieren — Lagerfeuer, Sanitärbereich und WLAN inklusive, Hunde willkommen.",
       image: { src: `${IMG}/gallery-ab38e37a4c.webp`, alt: "Schattiger Zeltplatz mit Tisch und Hängesessel zwischen Obstbäumen" },
     },
     {
       title: "s’Hittl — Tag und Nacht",
-      text: "Die kleine Selbstbedienungshütte am Platz hat rund um die Uhr offen: selbstgebackenes Brot der Bäuerin, hausgemachte Aufstriche, Honig und Eier der eigenen Hühner.",
+      text: "Die Selbstbedienungshütte hat rund um die Uhr offen: Brot der Bäuerin, Aufstriche, Honig und Eier der eigenen Hühner.",
       image: { src: `${IMG}/gallery-327893c5a2.webp`, alt: "Handgeschnitztes Holzschild s'Hittl am Winkelmayer Hof" },
     },
   ],
