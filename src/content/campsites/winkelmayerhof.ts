@@ -38,7 +38,7 @@ const winkelmayerhof: CampsiteConfig = {
     {
       title: "s’Hittl — Tag und Nacht",
       text: "Die Selbstbedienungshütte hat rund um die Uhr offen: Brot der Bäuerin, Aufstriche, Honig und Eier der eigenen Hühner.",
-      image: { src: `${IMG}/gallery-327893c5a2.webp`, alt: "Handgeschnitztes Holzschild s'Hittl am Winkelmayer Hof" },
+      image: { src: `${IMG}/gallery-f5f649e978.webp`, alt: "Die Almhütte s'Hittl am Winkelmayer Hof im goldenen Abendlicht" },
     },
   ],
 
